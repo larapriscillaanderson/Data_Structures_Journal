@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures Journal
 Data Structures Notes and Detailed Solutions
 
 January 2, 2025
